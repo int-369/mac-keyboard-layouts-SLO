@@ -2,15 +2,9 @@
 
 Slovenian keyboard layout
 
-
-
-Put files in to:
-
-
+Put files "Slovensko QWERTZ.icns" and "Slovensko QWERTZ.keylayout" in to:
 
 Library > Keyboard Layouts
-
-
 
 Then:
 
